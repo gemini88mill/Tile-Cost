@@ -1,3 +1,18 @@
-readme 
+README 
 
-this is the readme file 
+Written by Raphael Miller in order to get more familiar with git, github, and intelij. 
+
+This simple program is a tile cost calculator. It collects user generated input for 
+length and width of the "tile floor" and then presents a representation of the cost
+based on already defined "cost of material" and "type of material". 
+
+Simple text based UI. nothing fancy. essentially just a practice on algorythims. 
+I did try to make it a little more modular then any of my previous projects in order
+to get used to real world application problems. 
+
+Any beginners like me out there want a deeper explaination on whats going on in my 
+code feel free to message me via gitHub https://github.com/gemini88mill
+
+Thank you, 
+
+gemini88mill 
